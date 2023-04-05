@@ -21,5 +21,4 @@ const createStudent = (name) => ({
     return 'Eita pessoa boa!';
   },
 });
-
 module.exports = createStudent;
